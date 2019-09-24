@@ -1,10 +1,7 @@
-class Fabrica:
+class Fabrica():
 
-	def productor():
+	def main():
 		pass
 
-	def emsamblador():
-		pass
-
-	def empaquetador():
-		pass
+	if __name__ == "__main__":
+	main()
